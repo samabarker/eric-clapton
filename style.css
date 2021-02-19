@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&display=swap');
+
+.main-header {
+    font-family: 'Mr Dafoe', cursive;
+}
+
+img {
+    object-fit: cover;
+    object-position: 100% 20%;
+    height: 40vh;
+}
+
